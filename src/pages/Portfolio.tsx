@@ -2,7 +2,9 @@
 
 const PortfolioPage = () => {
   return (
-    <div className="min-h-screen">PortfolioPage</div>
+    <div className="min-h-screen flex justify-center items-center ">
+        <h1>Work in Progress. Loading...</h1>
+    </div>
   )
 }
 
